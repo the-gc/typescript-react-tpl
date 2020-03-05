@@ -1,0 +1,28 @@
+
+
+# Ignore Mac OS desktop services store
+.DS_Store
+
+# Ignore Windows desktop setting file
+desktop.ini
+
+./src/.idea
+.idea/
+./vscode
+build/
+npm-debug.log
+jsconfig.json
+src/css/simplify.css
+#maomao 2016-05-16
+*.xml
+.idea/
+.idea/*.xml
+.idea/workspace.xml
+src/.idea/
+src/*.xml
+node_modules/
+webpack.config.dev.js
+package-lock.json
+/src/vendor/Mock
+
+
